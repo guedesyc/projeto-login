@@ -24,14 +24,17 @@ main{
     text-align: center;
     background-color: white;
     border-radius: 20px;
+    margin: 30px;
 
 }
 
  #imagem{
     background: url(../imagens/metal.jpg);
     background-size: cover;
-    height: 100px;
-    
+    background-position: left bottom;
+    height: 200px;
+    width: 80vw;
+    border-radius: 20px 20px 0px 0px;
 }
 
 
